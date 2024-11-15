@@ -1,2 +1,2 @@
-# updated-about
-updated aboutus section
+# updated-aboutus
+this is the updated aboutus code
